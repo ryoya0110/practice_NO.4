@@ -1,0 +1,14 @@
+@media screen and (max-width: 834px) {
+	#top_txt {
+		p {
+			padding: 0 20px;
+		}
+	}
+
+	#imgs {
+		flex-flow: column;
+		li {
+			width: 100%;
+		}
+	}
+}
